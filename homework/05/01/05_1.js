@@ -4,5 +4,4 @@ function checkNum(){
 
     document.getElementById("e").value = (num1===num2) ? num1 * num2 : num1 + num2;
     console.log(document.getElementById("e").value);
-
 }
